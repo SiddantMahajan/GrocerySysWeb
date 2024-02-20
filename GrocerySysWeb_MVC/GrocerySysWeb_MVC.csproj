@@ -151,6 +151,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\css\footer.css" />
     <Content Include="Content\css\home.css" />
+    <Content Include="Content\css\pcard.css" />
     <Content Include="Content\css\productcard.css" />
     <Content Include="Content\css\profilecard.css" />
     <Content Include="Content\img\aks.jpg" />
